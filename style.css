@@ -1,3 +1,19 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
+}
+
+.hide {
+  display: none;
+  animation: showContent 1s alternate ease-in-out;
+}
+
+@keyframes showContent {
+  from {
+    height: 0px;
+  }
+
+  to {
+    height: 200px;
+  }
 }

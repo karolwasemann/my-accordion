@@ -16,11 +16,11 @@ Your tasks:
 
 1. Implement the logic to wrap/expand sections after clicking on the arrow
 
-2) automatically wrap the previous section if the user activates another
+2. automatically wrap the previous section if the user activates another
 
 Bonus points:
 
 1. add logic to change the state (toggle) of a section when double clicking on its title
 
-2) Add section wrap animation
-3) Add section expanding animation
+2. Add section wrap animation
+3. Add section expanding animation
